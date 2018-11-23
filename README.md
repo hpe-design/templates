@@ -1,6 +1,6 @@
 When designing HPE applications and websites, please refer to [HPE BrandCentral link](https://h10014.www1.hpe.com/home) (requires login) for more usage details.
 
-![alt text](https://github.com/hpe-design/illustration/blob/master/Previews/hpe-illustration.png "HPE Illustration")
+![alt text]( "HPE Illustration")
 
 # HPE App Templates (Coming Soon)
 
@@ -8,11 +8,11 @@ To help bootstrap your design and development process we've created a series of 
 
 ---
 
-![alt text](https://github.com/hpe-design/components/blob/master/Previews/grommet.png "Grommet")
+![alt text](https://github.com/hpe-design/templates/blob/master/Preview/app-template.png "HPE App Template")
 
 ## Grommet
 
-grommet is a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package. It's also the de-facto UI framework HPE uses to build apps and websites. All of our app templates work especially well when paired with grommet! Go check it out and tell your devs!
+grommet is a react-based framework that provides accessibility, modularity, responsiveness, and theming in a tidy package. It's also the de-facto UI frahttps://github.com/hpe-design/illustration/blob/master/Previews/hpe-illustration.pngmework HPE uses to build apps and websites. All of our app templates work especially well when paired with grommet! Go check it out and tell your devs!
 
 **To learn more, visit [grommet.io](https://grommet.io)**
 
