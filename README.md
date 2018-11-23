@@ -1,14 +1,14 @@
 When designing HPE applications and websites, please refer to [HPE BrandCentral link](https://h10014.www1.hpe.com/home) (requires login) for more usage details.
 
-![alt text]( "HPE Illustration")
+![alt text](https://github.com/hpe-design/templates/blob/master/Preview/app-template.png "HPE App Template")
 
 # HPE App Templates (Coming Soon)
 
-To help bootstrap your design and development process we've created a series of app templates that we've found useful insdide HPE and typify common enterprise app experiences for partners, customwers, and ourselves. 
+To help bootstrap your design and development process we've created a series of app templates that we've found useful insdide HPE and typify common enterprise app experiences for partners, customwers, and ourselves.
 
 ---
 
-![alt text](https://github.com/hpe-design/templates/blob/master/Preview/app-template.png "HPE App Template")
+![alt text](https://github.com/hpe-design/components/blob/master/Previews/grommet.png "Grommet")
 
 ## Grommet
 
